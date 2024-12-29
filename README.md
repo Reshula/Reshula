@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reshula
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning the JS framework React
+- 🌱 I’m currently learning the Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me reyhana3282gmail.com
 
